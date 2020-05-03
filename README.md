@@ -23,9 +23,9 @@ and counties.
 
 Encoding
 
-• Mark/Shape: Solid Circle are used to represent each Garda Station on the Ireland Map
+* Mark/Shape: Solid Circle are used to represent each Garda Station on the Ireland Map
 
-• Position: The position of the circle is mapped to the latitude and longitude of every
+* Position: The position of the circle is mapped to the latitude and longitude of every
 
 Garda Station.
 • Color variation is being used for encoding the rate of crime:
