@@ -21,7 +21,7 @@ over a Garda Station, would show the crime statistic for only that individual st
 the ‘Analytical View’, you can the various bar chart graphs comparing the various crime categories
 and counties.
 
-Encoding
+## Encoding
 
 * Mark/Shape: Solid Circle are used to represent each Garda Station on the Ireland Map
 
@@ -35,7 +35,7 @@ Encoding
 
 * Various checklist filter options have been provided to show crime on the basis of year, crime-category, county, garda station.
 
-Tasks
+## Tasks
 
 * Depicting the various trends and patterns of rates of crime level in various counties of
 Ireland.
