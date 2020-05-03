@@ -43,10 +43,9 @@ Ireland.
 * To be to find the county which has the most and least crime rate.
 
 * To be to find the crime category which is more common in a particular county.
-
 * Uncovering the garda stations in a county which has more crime rate to find the most
 unsafe areas.
 
-##Limitations
+## Limitations
 * You may visualize counties which are either safe or unsafe, however this visualization
 doesn’t explicitly mention it subjectively.
