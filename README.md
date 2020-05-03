@@ -1,5 +1,10 @@
 # Visualizing Ireland Crime Rate
 
+![Image description](https://github.com/TheAdityaVishnu/VisulizingIrelandCrimeRate/blob/master/Map%20View.png)
+
+![Image description](https://github.com/TheAdityaVishnu/VisulizingIrelandCrimeRate/blob/master/Analytic%20View.png)
+
+
 The aim of the visualisation is to show the rates of different crime categories in various counties of
 Ireland from 2010 to 2016 (from 2003 in some cases). It also shows the crime rate for each individual
 garda station in those counties.
@@ -17,21 +22,29 @@ the ‘Analytical View’, you can the various bar chart graphs comparing the va
 and counties.
 
 Encoding
+
 • Mark/Shape: Solid Circle are used to represent each Garda Station on the Ireland Map
+
 • Position: The position of the circle is mapped to the latitude and longitude of every
 
 Garda Station.
 • Color variation is being used for encoding the rate of crime:
+
 o Color Green reflects more crime rate.
+
 o Color Yellow reflects less crime rate.
-• Various checklist filter options have been provided to show crime on the basis of year,
-crime-category, county, garda station.
+
+• Various checklist filter options have been provided to show crime on the basis of year, crime-category, county, garda station.
 
 Tasks
+
 • Depicting the various trends and patterns of rates of crime level in various counties of
 Ireland.
+
 • To be to find the county which has the most and least crime rate.
+
 • To be to find the crime category which is more common in a particular county.
+
 • Uncovering the garda stations in a county which has more crime rate to find the most
 unsafe areas.
 
