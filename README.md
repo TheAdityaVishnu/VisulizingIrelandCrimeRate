@@ -1,4 +1,4 @@
-# VisulizingIrelandCrimeRate
+# Visualizing Ireland Crime Rate
 
 The aim of the visualisation is to show the rates of different crime categories in various counties of
 Ireland from 2010 to 2016 (from 2003 in some cases). It also shows the crime rate for each individual
