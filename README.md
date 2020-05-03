@@ -25,29 +25,28 @@ Encoding
 
 * Mark/Shape: Solid Circle are used to represent each Garda Station on the Ireland Map
 
-* Position: The position of the circle is mapped to the latitude and longitude of every
+* Position: The position of the circle is mapped to the latitude and longitude of every Garda Station.
 
-Garda Station.
-• Color variation is being used for encoding the rate of crime:
+* Color variation is being used for encoding the rate of crime:
 
-o Color Green reflects more crime rate.
+* Color Green reflects more crime rate.
 
-o Color Yellow reflects less crime rate.
+* Color Yellow reflects less crime rate.
 
-• Various checklist filter options have been provided to show crime on the basis of year, crime-category, county, garda station.
+* Various checklist filter options have been provided to show crime on the basis of year, crime-category, county, garda station.
 
 Tasks
 
-• Depicting the various trends and patterns of rates of crime level in various counties of
+* Depicting the various trends and patterns of rates of crime level in various counties of
 Ireland.
 
-• To be to find the county which has the most and least crime rate.
+* To be to find the county which has the most and least crime rate.
 
-• To be to find the crime category which is more common in a particular county.
+* To be to find the crime category which is more common in a particular county.
 
-• Uncovering the garda stations in a county which has more crime rate to find the most
+* Uncovering the garda stations in a county which has more crime rate to find the most
 unsafe areas.
 
-Limitations
-• You may visualize counties which are either safe or unsafe, however this visualization
+##Limitations
+* You may visualize counties which are either safe or unsafe, however this visualization
 doesn’t explicitly mention it subjectively.
